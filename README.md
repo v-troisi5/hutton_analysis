@@ -201,7 +201,3 @@ Again, please excuse me if you happen to find any mistakes or inaccuracies. If y
 - https://en.wikipedia.org/wiki/Entropy_(information_theory)
 - https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 - https://en.wikipedia.org/wiki/Mutual_information
-
-<link rel="stylesheet" href="https://jsdelivr.net">
-<script defer src="https://jsdelivr.net"></script>
-<script defer src="https://jsdelivr.net" onload="renderMathInElement(document.body);"></script>
