@@ -1,3 +1,5 @@
+(Spelling, naturalness of speech and writing in general is still in progress of being refined!)
+
 ## A Playful Analysis of the Puzzling Hutton (v1) Cipher
 
 During the past weeks, I decided to tackle a small cryptographic challenge: I wanted to analyze, and hopefully attack, the Hutton cipher. If you are not familiar with the cipher's workings, allow me to redirect you to the Appendix.
